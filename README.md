@@ -4,7 +4,6 @@
 
 | File |
 |---|
-| [`[and].v`]() |
 | [`[mux].v`]() | 
 | [`[data_memory].v`]() | 
 | [`[mem_wb_latch].v`]() | 
