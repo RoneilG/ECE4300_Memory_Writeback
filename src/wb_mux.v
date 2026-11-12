@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module bottom_mux (
+module wb_mux (
   input wire [31:0] a, b,
   input wire sel,
   output wire [31:0] y
