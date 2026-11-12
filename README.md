@@ -4,10 +4,10 @@
 
 | File |
 |---|
-| [`[mux].v`](https://github.com/RoneilG/ECE4300_Memory_Writeback/blob/main/src/mux.v) | 
+| [`[wb_mux].v`](https://github.com/RoneilG/ECE4300_Memory_Writeback/blob/main/src/mux.v) | 
 | [`[data_memory].v`]() | 
 | [`[mem_wb_latch].v`]() | 
-
+| [`[memory].v`]() | 
 
 ### Testbench
 | File |
