@@ -13,7 +13,7 @@
 ### Testbench
 | File |
 |---|
-| [`[memory_tb].v`](https://github.com/RoneilG/ECE4300_Memory_Writeback/tree/main/tb) | 
+| [`[memory_tb].v`](https://github.com/RoneilG/ECE4300_Memory_Writeback/blob/main/tb/memory_tb) | 
 
 
 ### Timing Diagrams
