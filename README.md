@@ -7,7 +7,7 @@
 | [`[wb_mux].v`](https://github.com/RoneilG/ECE4300_Memory_Writeback/blob/main/src/wb_mux.v) | 
 | [`[data_memory].v`]() | 
 | [`[mem_wb_latch].v`](https://github.com/RoneilG/ECE4300_Memory_Writeback/blob/main/src/mem_web_latch.v) | 
-| [`[memory].v`]() | 
+| [`[memory].v`](https://github.com/RoneilG/ECE4300_Memory_Writeback/blob/main/src/memory.v) | 
 
 ### Testbench
 | File |
