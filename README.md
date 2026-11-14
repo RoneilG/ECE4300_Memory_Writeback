@@ -13,7 +13,6 @@
 | File |
 |---|
 | [`[data_memory_tb].v`]() | 
-| [`[mem_wb_tb].v`]() | 
 
 
 ### Timing Diagrams
